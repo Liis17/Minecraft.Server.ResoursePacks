@@ -1,0 +1,6 @@
+{
+    "parent": "doggy_care:ui/root",
+    "textures": {
+        "texture": "doggy_care:ui/base"
+    }
+}

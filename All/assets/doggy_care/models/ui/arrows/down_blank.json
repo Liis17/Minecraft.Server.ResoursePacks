@@ -1,0 +1,6 @@
+{
+    "parent": "doggy_care:ui/abstract/slot",
+    "textures": {
+        "layer0": "doggy_care:ui/down_blank"
+    }
+}

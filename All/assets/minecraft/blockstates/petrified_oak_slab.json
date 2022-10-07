@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": {
+        "model": "doggy_care:blocks/air"
+    }
+  }
+}

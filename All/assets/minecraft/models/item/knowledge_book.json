@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/knowledge_book"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":5481}, "model": "doggy_care:items/toys/firefighter_ball"},
+    {"predicate": {"custom_model_data":5482}, "model": "doggy_care:items/toys/doggy_of_undying"},
+    {"predicate": {"custom_model_data":5483}, "model": "doggy_care:items/toys/anti_void"},
+    {"predicate": {"custom_model_data":5484}, "model": "doggy_care:items/toys/steel_claws"},
+    {"predicate": {"custom_model_data":5485}, "model": "doggy_care:items/toys/heart_pillow"},
+    {"predicate": {"custom_model_data":5486}, "model": "doggy_care:items/toys/bomb_plushie"},
+    {"predicate": {"custom_model_data":5487}, "model": "doggy_care:items/toys/frosty_bone"},
+    {"predicate": {"custom_model_data":5488}, "model": "doggy_care:items/toys/noisy_ball"},
+    {"predicate": {"custom_model_data":5489}, "model": "doggy_care:items/toys/poison_claw"},
+    {"predicate": {"custom_model_data":5490}, "model": "doggy_care:items/toys/diver_goggles"},
+
+
+
+    {"predicate": {"custom_model_data":6001}, "model": "doggy_care:items/misc/xp_candy1"},
+    {"predicate": {"custom_model_data":6002}, "model": "doggy_care:items/misc/xp_candy2"},
+    {"predicate": {"custom_model_data":6003}, "model": "doggy_care:items/misc/xp_candy3"},
+    {"predicate": {"custom_model_data":6005}, "model": "doggy_care:items/misc/digger_candy1"},
+    {"predicate": {"custom_model_data":6006}, "model": "doggy_care:items/misc/digger_candy2"}
+	]
+}
